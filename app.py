@@ -14,7 +14,7 @@ def welcome():
 @app.route('/home')
 def home_page():
     return render_template('home.html')
-1
+
 @app.route('/contact')
 def blog():
     return render_template('contact.html')
