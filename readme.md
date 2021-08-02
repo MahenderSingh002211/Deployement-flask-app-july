@@ -3,20 +3,20 @@
 2.install the liberaries required -> pip install -r requirement.txt
 
 3.dir - flask_app
-         - app.py
-         -templates
-         - home.html
+         app.py
+         templates
+         home.html
  
  4.task
     flask_app
-          -app.py
-          -templates
-          -home.html
-          -welcome.html
-          -blog-html
+          app.py
+          templates
+          home.html
+          welcome.html
+          blog-html
 
  5. app.py
-    templates
-    procfile
-    requirment.txt file
+         templates
+         procfile
+         requirments.txt file
          
